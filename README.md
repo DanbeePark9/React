@@ -1,7 +1,7 @@
 # React
 
-cd Desktop
-npx create-react-app danbi
-cd danbi 
-npm i react-router-dom
-VScode에서 npm start
+<p>cd Desktop
+<p>npx create-react-app danbi
+<p>cd danbi 
+<p>npm i react-router-dom
+<p>VScode에서 npm start
